@@ -1,0 +1,15 @@
+{
+  "name": "tstd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.14.175",
+    "lodash": "^4.17.21"
+  }
+}
