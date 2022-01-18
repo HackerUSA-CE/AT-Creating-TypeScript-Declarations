@@ -7,7 +7,7 @@
     "build": "npx tsc"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "dependencies": {
     "@types/lodash": "^4.14.175",
     "lodash": "^4.17.21"
